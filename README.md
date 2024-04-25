@@ -22,3 +22,15 @@ Textures/KF_Specimens_Trip_T_Two.utx
 
 Before replacing it's highly recommended to make a backup of the original textures.
 
+### Appearance
+
+![Clot](./img/Clot.jpg)
+![Gorefast](./img/Gorefast.jpg)
+![Bloat](./img/Bloat.jpg)
+![Crawler](./img/Crawler.jpg)
+![Stalker](./img/Stalker.jpg)
+![Husk](./img/Husk.jpg)
+![Siren](./img/Siren.jpg)
+![Scrake](./img/Scrake.jpg)
+![Fleshpound](./img/Fleshpound.jpg)
+![Patriarch](./img/Patriarch.jpg)
