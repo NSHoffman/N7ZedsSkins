@@ -7,9 +7,9 @@ Majorly reworked, custom version of the known Grittier Zeds texture pack. Used i
 
 Some of the original pack's skins (Gorefast, Bloat, Siren) have been added a few details from the Killing Floor Mod textures giving the zeds a more threatening and mutilated yet still quite natural look. 
 
-Some skins have been muchly reconsidered either due to poor appearance decisions in the original pack or out of personal preference (Clot, Crawler, Scrake, Fleshpound).
+Some skins have been muchly reconsidered either due to poor appearance decisions in the original pack or out of personal preference (Clot, Crawler, Stalker, Scrake, Fleshpound).
 
-A few zeds have been left unchanged (Stalker, Husk, Patriarch).
+A few zeds have been left unchanged (Husk, Patriarch).
 
 ### Installation
 
